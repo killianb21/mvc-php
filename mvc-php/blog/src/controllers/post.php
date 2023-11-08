@@ -1,6 +1,5 @@
 <?php
 
-require_once('src/model.php');
 require_once('src/model/post.php');
 require_once('src/model/comment.php');
 
